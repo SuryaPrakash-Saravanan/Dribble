@@ -131,6 +131,9 @@ Publish the website in the LocalHost.
 
     </div>
   </div>
+  <footer>
+    <p align="center">&copy; designed by surya prakash s 25014536</p>
+  </footer>
 
 </body>
 </html>
@@ -140,7 +143,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](<Screenshot (56).png>)
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/ac431692-d62b-476a-9371-96ad5b8538d6" />
+
 
 
 ## RESULT:
